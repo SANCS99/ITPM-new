@@ -1,0 +1,25 @@
+{
+  "name": "itpm-new",
+  "version": "1.0.0",
+  "description": "Pizza Stone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANCS99/ITPM-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SANCS99/ITPM-new/issues"
+  },
+  "homepage": "https://github.com/SANCS99/ITPM-new#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  }
+}
